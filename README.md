@@ -1,4 +1,4 @@
-# Computer Graphic
+# Computer Graphics
 
 - Bezier
 

@@ -1,7 +1,7 @@
 {
   "name": "ts",
   "version": "1.0.0",
-  "description": "ComputerGraphic",
+  "description": "ComputerGraphics",
   "scripts": {
     "start": "tsc -w"
   },
