@@ -1,0 +1,10 @@
+{
+  "name": "ts",
+  "version": "1.0.0",
+  "description": "ComputerGraphic",
+  "scripts": {
+    "start": "tsc -w"
+  },
+  "author": "",
+  "license": "ISC"
+}
